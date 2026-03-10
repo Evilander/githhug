@@ -1,0 +1,19 @@
+# Your project inventory — GitHHug uses this to suggest improvements
+# based on what's trending. Add/remove projects freely.
+#
+# Format:
+#   - name: Display Name
+#     path: /path/to/project  (optional, for your reference)
+#     description: What this project does
+
+- name: My Web App
+  path: ~/projects/my-web-app
+  description: Next.js SaaS with Stripe billing and user auth
+
+- name: CLI Tool
+  path: ~/projects/cli-tool
+  description: Python CLI for batch image processing with pillow and ffmpeg
+
+- name: Home Automation
+  path: ~/projects/home-auto
+  description: Raspberry Pi home sensor network with MQTT and Grafana dashboards

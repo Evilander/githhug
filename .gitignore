@@ -1,0 +1,9 @@
+.env
+.claude/
+__pycache__/
+*.pyc
+ideas/
+projects.yaml
+*.egg-info/
+dist/
+build/
