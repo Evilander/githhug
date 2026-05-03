@@ -5,7 +5,7 @@ description = "Daily project idea incubator — scrapes trending repos, models, 
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.11"
-authors = [{ name = "Tyler Eveland", email = "j.tyler.eveland@gmail.com" }]
+authors = [{ name = "evilander" }]
 keywords = ["ai", "ideas", "trending", "github", "huggingface", "project-generator"]
 classifiers = [
     "Development Status :: 4 - Beta",
